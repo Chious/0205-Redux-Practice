@@ -16,7 +16,7 @@
 
 ## How to apply state in `Redux`?
 
-![%E6%88%AA%E5%9C%96_2024-02-05_%E4%B8%8A%E5%8D%8811](%25E6%2588%25AA%25E5%259C%2596_2024-02-05_%25E4%25B8%258A%25E5%258D%258811.41.10.png)
+![](https://github.com/Chious/0205-Redux-Practice/blob/main/%2525E6%252588%2525AA%2525E5%25259C%252596_2024-02-05_%2525E4%2525B8%25258A%2525E5%25258D%25258811.41.10.png?raw=true)
 
 ### Store：儲存資料狀態（state）的地方
 
